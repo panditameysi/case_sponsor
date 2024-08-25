@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\models\\sponsorsbymatchcountasperyearview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:models\\sponsorsbymatchcountasperyearview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\dao\\sponsordaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:dao\\sponsordaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\controllers\\sponsorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:controllers\\sponsorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\dao\\isponsordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:dao\\isponsordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\models\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:models\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\models\\sponsorswithpaymentdetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:models\\sponsorswithpaymentdetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\models\\matcheswithtotalpaymentsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:models\\matcheswithtotalpaymentsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\dao\\queries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:dao\\queries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|c:\\users\\amey.pandit\\desktop\\marathon_sponsor\\dotnet\\sponsorapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B788F3F-96CB-4427-9B4B-5D6CD72AD49F}|SponsorAPI.csproj|solutionrelative:sponsorapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:34:28.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SponsorsWithPaymentDetailsView.cs",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Models\\SponsorsWithPaymentDetailsView.cs",
+              "RelativeDocumentMoniker": "Models\\SponsorsWithPaymentDetailsView.cs",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Models\\SponsorsWithPaymentDetailsView.cs",
+              "RelativeToolTip": "Models\\SponsorsWithPaymentDetailsView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:12:06.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SponsorsByMatchCountAsPerYearView.cs",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Models\\SponsorsByMatchCountAsPerYearView.cs",
+              "RelativeDocumentMoniker": "Models\\SponsorsByMatchCountAsPerYearView.cs",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Models\\SponsorsByMatchCountAsPerYearView.cs",
+              "RelativeToolTip": "Models\\SponsorsByMatchCountAsPerYearView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:12:13.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatchesWithTotalPaymentsView.cs",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Models\\MatchesWithTotalPaymentsView.cs",
+              "RelativeDocumentMoniker": "Models\\MatchesWithTotalPaymentsView.cs",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Models\\MatchesWithTotalPaymentsView.cs",
+              "RelativeToolTip": "Models\\MatchesWithTotalPaymentsView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:21:41.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Queries.sql",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\DAO\\Queries.sql",
+              "RelativeDocumentMoniker": "DAO\\Queries.sql",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\DAO\\Queries.sql",
+              "RelativeToolTip": "DAO\\Queries.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-25T08:17:39.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T07:22:05.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SponsorAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\SponsorAPI.csproj",
+              "RelativeDocumentMoniker": "SponsorAPI.csproj",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\SponsorAPI.csproj",
+              "RelativeToolTip": "SponsorAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T07:16:09.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SponsorDaoImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\DAO\\SponsorDaoImplementation.cs",
+              "RelativeDocumentMoniker": "DAO\\SponsorDaoImplementation.cs",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\DAO\\SponsorDaoImplementation.cs",
+              "RelativeToolTip": "DAO\\SponsorDaoImplementation.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:02:21.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISponsorDao.cs",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\DAO\\ISponsorDao.cs",
+              "RelativeDocumentMoniker": "DAO\\ISponsorDao.cs",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\DAO\\ISponsorDao.cs",
+              "RelativeToolTip": "DAO\\ISponsorDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:01:34.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA+wBwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:56:03.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:55:49.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SponsorController.cs",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Controllers\\SponsorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SponsorController.cs",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Controllers\\SponsorController.cs",
+              "RelativeToolTip": "Controllers\\SponsorController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwDMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:55:21.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Matches.cs",
+              "DocumentMoniker": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Models\\Matches.cs",
+              "RelativeDocumentMoniker": "Models\\Matches.cs",
+              "ToolTip": "C:\\Users\\amey.pandit\\Desktop\\MARATHON_SPONSOR\\DOTNET\\Models\\Matches.cs",
+              "RelativeToolTip": "Models\\Matches.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:54:20.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
